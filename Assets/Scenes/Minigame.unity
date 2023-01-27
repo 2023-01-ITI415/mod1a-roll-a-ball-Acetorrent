@@ -312,8 +312,8 @@ GameObject:
   - component: {fileID: 1672897152}
   - component: {fileID: 1672897151}
   - component: {fileID: 1672897150}
-  - component: {fileID: 1672897156}
   - component: {fileID: 1672897155}
+  - component: {fileID: 1672897156}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: 
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1 &1947992914
